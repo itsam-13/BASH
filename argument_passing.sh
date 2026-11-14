@@ -17,4 +17,15 @@ for arg in $@
 do
     echo "Arg is $arg"
 done
+echo " "
+echo " "
+echo "--------------------------------------------------"
+echo " "
+echo " "
+
+# shift can be used to passout a arg then remaing can be used to other part
+# echo "creating user $1"
+# shift
+# echo "Description $2"
+
 
